@@ -1,0 +1,31 @@
+[
+  {
+    "profilePicture": "./assests/avatars/image-amyrobson.webp",
+    "name": "amyrobson",
+    "posted": "2 Weeks ago",
+    "content": "Lorem ipsum dolor sit amet. Ut doloribus consequatur rem mollitia aspernatur non eveniet dolore id repudiandae libero. Qui cupiditate excepturi ut eaque dolores vel quam quisquam At voluptatem deserunt a voluptatibus quia et sequi voluptatem ea voluptatem",
+    "replys": [
+      {
+        "profilePicture": "src/assests/avatars/image-ramsesmiron.png",
+        "name": "ramerson",
+        "posted": "1 hour ago",
+        "content": "Lorem ipsum dolor sit amet. Ut doloribus consequatur rem mollitia aspernatur non eveniet dolore id repudiandae libero. Qui cupiditate excepturi ut eaque dolores vel quam quisquam At voluptatem deserunt a voluptatibus quia et sequi voluptatem ea voluptatem"
+      }
+    ]
+  },
+  {
+    "profilePicture": "src/assests/avatars/image-juliusomo.webp",
+    "name": "juliusomo",
+    "posted": "1 Weeks ago",
+    "content": "Lorem ipsum dolor sit amet. Ut doloribus consequatur rem mollitia aspernatur non eveniet dolore id repudiandae libero. Qui cupiditate excepturi ut eaque dolores vel quam quisquam At voluptatem deserunt a voluptatibus quia et sequi voluptatem ea voluptatem",
+    "replys": [
+      {
+        "profilePicture": "src/assests/avatars/image-ramsesmiron.png",
+        "name": "ramerson",
+        "posted": "4 hour ago",
+        "content": "Lorem ipsum dolor sit amet. Ut doloribus consequatur rem mollitia aspernatur non eveniet dolore id repudiandae libero. Qui cupiditate excepturi ut eaque dolores vel quam quisquam At voluptatem deserunt a voluptatibus quia et sequi voluptatem ea voluptatem"
+      }
+    ]
+  }
+
+]
